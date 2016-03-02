@@ -1,0 +1,35 @@
+Aespro Python Server
+
+Powered by Python, PyQt4, PHP5, & MySql Database
+
+This is guide of using Aespro GUI mode and Console mode application
+
+1.Start the gui by directly click the gui.py from your's folder, or by typing command from terminal ./gui.py.
+
+2.If you want use php inside your's server, make sure your pc server was installed php5 and MySql Database for server.
+
+3.If it's needed you can also install mysql-server as database and phpmyadmin as mysql-server CMS.
+
+4.Click the index.html button if you want to make a web server without php support.
+
+5.Type your’s root password to start.
+
+6.Click the index.php button if you want to make a web server with php support.
+
+7.Type your’s root password to start.
+
+8.For accessing your web server with php5 support, type in your's browser http://localhost or http://<your server's ip>.
+
+9.For accessing your's web server with only html support, type in your's browser http://localhost or http://<your's server ip>.
+
+10.For stop this service you can press ctrl+c button.
+
+11.If you are not using PHP support, you can place your's file such as index.html, and other under directory html 
+
+12.If you are using PHP support, you can place your's CMS or your's PHP file such as index.php, and other under directory php
+
+13.For more information and if you found some bug, you can ask or contact to the developer team directly or send by email.
+
+
+email : oniioniichan@gmail.com
+Website : http://piijii.wordpress.com
