@@ -1,0 +1,57 @@
+Aespro Python Server
+
+Powered by Python, PyQt4, PHP5, & MySql Database
+
+This is update list for GUI and Console application
+
+======================>Update on version 1.3<========================
+
+1.Added a menubar to GUI version for more simple access.
+
+2.Move the documentation such like how to, update list, bug list, and fixed bug list to 1 folder inside .elements/doc for minimize resource.
+
+3.Added install necessary part for PHP5 support inside console application and GUI application.
+
+4.Added index.php for test the server work or not inside docroot folder (only available if you use web server with PHP5 support) including CSS style.
+
+5.Added index.html for test the server is work or not inside this folder.
+
+6.Added bug list to GUI application.
+
+7.Added necessary module for running GUI application inside file folder, include inside this zip file.
+
+8.Change name Aegis Simple Project to AESPro web server.
+
+9.Changing default language to English(US).
+
+10.Change the whole GUI mode into a simpler, and lightweight look for end-user friendly.
+
+11.Add change About display into more simple form.
+
+12.Adding some important file
+
+13.Developing GUI mode for be a better and more simple access for end-user that using GUI mode.
+
+======================>Update on version 1.4<========================
+
+1.Added html folder so user can place file html script under html folder, for more ordered file, so no more confused again
+
+2.Added log folder for more orderly file inside folder.
+
+3.Change core application for server into Flask framework for easy routing url.
+
+====================>Update on version 1.4.50<========================
+
+1.Change core application for server to SimpleHTTPServer.
+
+2.Log.py clustered into gui.py decreasing big resource.
+
+3.About.py clustered into gui.py for decreasing big resource.
+
+4.Console.py application is removed.
+
+5.Add setup.py for installing pyqt4 and another python package for running GUI mode.
+
+
+email : oniioniichan@gmail.com
+Website : http://piijii.wordpress.com
