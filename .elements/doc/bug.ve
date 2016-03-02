@@ -1,0 +1,127 @@
+Aespro Python Server
+
+Powered by Python, PyQt4, PHP5, & MySql Database
+
+This is update list for GUI and Console application
+
+================================>Update on version 1.0<================================
+
+1.Need python compiler to start this app.
+
+2.Need some module of python, but it's was include in built in module such as SimpleHTTPServer, os, sys, and other built in module.
+
+3.Need install PyQt4 module for running the GUI version.
+
+4.Need a big resource, such as ram over 512 MB, harddisk over 5 GB, and processor over 1 MHz. It's not protected from ddos or dos attack, it will save if you use cloudflare or proxy server to pretend and minimize the DDoS or DoS attack.
+
+5.Need python 2,5 or python 2,7 because all of this script written with python 2,5, or 2,7 base.
+
+6.Max client is unknown.
+
+7.Need time delay if you want to change server from common html to php support server.
+
+8.Can't use common port 80, because mysql cms is already use port 80 under the apache2 server, so it should use port 8080 for this server. Sometime it's will have 
+a little bit laggy if you start the gui version.
+
+9.About the console version, it's completly perfect. so, better if end-user is using the console applications.
+
+10.Beta test is not doing yet.
+
+================================>Update on version 1.2<================================
+
+1.GUI version 1.2 need beta test for bug or other mistake that was developer do.
+
+2.Need python compiler to start this app.
+
+3.Need some module of python, but it's was include in built in module such as SimpleHTTPServer, os, sys, and other built in module.
+
+4.Need install PyQt4 module for running the GUI version.
+
+5.Need a big resource, such as ram over 512 MB, harddisk over 5 GB, and processor over 1 MHz. It's not protected from ddos or dos attack, it will save if you use 
+cloudflare or proxy server to pretend and minimize the DDoS or DoS attack.
+
+6.Need python 2,5 or python 2,7 because all of this script written with python 2,5, or 2,7 base.
+
+7.Max client is unknown.
+
+8.Need time delay if you want to change server from common html to php support server.
+
+9.Can't use common port 80, because mysql cms is already use port 80 under the apache2 server, so it should use port 8080 for this server. Sometime it's will have a little bit laggy if you start the gui version.
+
+10.About the console version, it's completly perfect. so, better if end-user is using the console applications.
+
+11.Beta test is not doing yet.
+
+================================>Update on version 1.3<================================
+
+1.GUI version 1.3 need beta test for bug or other mistake that was developer do.
+
+2.Need python compiler to start this app.
+
+3.Need some module of python, but it's was include in built in module such as SimpleHTTPServer, os, sys, and other built in module.
+
+4.Need install PyQt4 module for running the GUI version.
+
+5.Need a big resource, such as ram over 512 MB, harddisk over 5 GB, and processor over 1 MHz. It's not protected from ddos or dos attack, it will save if you use cloudflare or proxy server to pretend and minimize the DDoS or DoS attack.
+
+6.Need python 2,5 or python 2,7 because all of this script written with python 2,5, or 2,7 base.
+
+7.Max client is unknown.
+
+8.Need time delay if you want to change server from common html to php support server.
+
+9.Can't use common port 80, because mysql cms is already use port 80 under the apache2 server, so it should use port 8080 for this server. Sometime it's will have a little bit laggy if you start the gui version.
+
+10.About the console version, it's completly perfect. so, better if end-user is using the console applications.
+
+11.Beta test is not doing yet.
+
+================================>Update on version 1.4<================================
+
+1.GUI version 1.3 need beta test for bug or other mistake that was developer do.
+
+2.Need python compiler to start this app.
+
+3.Need some module of python, but it's was include in built in module such as SimpleHTTPServer, os, sys, and other built in module.
+
+4.Need install PyQt4 module for running the GUI version.
+
+5.Need a big resource, such as ram over 512 MB, harddisk over 5 GB, and processor over 1 MHz. It's not protected from ddos or dos attack, it will save if you use cloudflare or proxy server to pretend and minimize the DDoS or DoS attack.
+
+6.Need python 2,5 or python 2,7 because all of this script written with python 2,5, or 2,7 base.
+
+7.Max client is unknown.
+
+8.Need time delay if you want to change server from common html to php support server.
+
+9.Can't use common port 80, because mysql cms is already use port 80 under the apache2 server, so it should use port 8080 for this server. Sometime it's will have a little bit laggy if you start the gui version.
+
+10.About the console version, it's completly perfect. so, better if end-user is using the console applications.
+
+11.Beta test is not doing yet.
+
+
+================================>Update on version 1.4.50<================================
+1.Need python compiler to start this app.
+
+2.Need some module of python, but it's was include in built in module such as SimpleHTTPServer, os, sys, and other built in module.
+
+3.Need install PyQt4 module for running the GUI version.
+
+4.Need a big resource, such as ram over 512 MB, harddisk over 5 GB, and processor over 1 MHz. It's not protected from ddos or dos attack, it will save if you use cloudflare or proxy server to pretend and minimize the DDoS or DoS attack.
+
+5.Need python 2,5 or python 2,7 because all of this script written with python 2,5, or 2,7 base.
+
+6.Max client is unknown.
+
+7.Can't use common port 80, because mysql cms is already use port 80 under the apache2 server, so it should use port 8080 for this server. Sometime it's will have a little bit laggy if you start the gui version.
+
+8.About the console version, it's completly perfect. so, better if end-user is using the console applications.
+
+9.Keyboard interupt still recorded into file server-activity.veil
+
+10.Beta test is not doing yet.
+
+
+email : oniioniichan@gmail.com
+Website : http://piijii.wordpress.com
